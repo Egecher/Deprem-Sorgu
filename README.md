@@ -93,5 +93,5 @@ https://deprem.afad.gov.tr/apiv2/event/filter?start=2025-8-11 14:13:20&end=2025-
 
 ---
 
-## 🔗 Api Kullanımı Daha Fazla Bilgi İçin
+## 🔗 Api Kullanımı
 https://deprem.afad.gov.tr/event-service
