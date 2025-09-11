@@ -91,5 +91,7 @@ https://deprem.afad.gov.tr/apiv2/event/filter?start=2025-8-11 14:13:20&end=2025-
 * Gelen JSON verisi filtrelenip daha okunabilir bir tablo formatında gösterilebilir.
 * Telegram/Discord bot entegrasyonu ile deprem bildirim sistemi kurulabilir.
 
-# Api Kullanımı Daha Fazla Bilgi İçin
-https://deprem.afad.gov.tr/event-service# Deprem-Sorgu
+---
+
+## Api Kullanımı Daha Fazla Bilgi İçin
+https://deprem.afad.gov.tr/event-service
